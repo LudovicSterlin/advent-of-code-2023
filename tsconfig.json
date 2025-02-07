@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es2022",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "rootDir": "./",
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": [
+      "day*/src/**/*.ts"
+, "day1/src/test.js"    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  

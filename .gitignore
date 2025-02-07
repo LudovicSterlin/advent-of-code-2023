@@ -3,18 +3,9 @@ node_modules/
 
 # TypeScript
 *.tsbuildinfo
-*.ts 
 
 # macOS
 .DS_Store
 
 # Visual Studio Code
 .vscode/
-
-# IDE settings
-*.sublime-workspace
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?

@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "Resolution of the puzzles from [Advent of Code 2023](https://adventofcode.com/2023)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adventofcode",
+    "2023"
+  ],
+  "author": "LudovicSterlin",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@types/node": "^20.10.1",
+    "typescript": "^5.3.2"
+  }
+}
